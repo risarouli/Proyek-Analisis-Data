@@ -1,7 +1,6 @@
-echo "# Proyek-Analisis-Data" >> README.md
 git init
-git add README.md
-git commit -m "first commit"
+git add dataset.csv
+git commit -m "Add dataset.csv"
 git branch -M main
-git remote add origin https://github.com/risarouli/Proyek-Analisis-Data.git
+git remote add origin https://github.com/username/repository.git
 git push -u origin main
